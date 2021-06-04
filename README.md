@@ -46,8 +46,8 @@ At present, we have obtained two models adapted to opencv 4.5.1 based on the ori
 (2) Clone this repository.
 
 ```
-git clone https://gitee.com/openeuler2020/team-1878343640.git
-cd team-1878343640
+git clone https://github.com/cqn2219076254/Car_Detection_In_3D_Poind_Cloud.git
+cd Car_Detection_In_3D_Poind_Cloud
 ```
 
 (3) Setup Python environment.
