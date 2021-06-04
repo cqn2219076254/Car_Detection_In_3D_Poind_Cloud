@@ -55,7 +55,7 @@ cd team-1878343640
 ```
 conda create -n 3dssd python=3.7
 source activate 3dssd
-pip install -r requirements_linux.txt
+pip install -r requirements.txt
 ```
 
 (4) Compile and install 3DSSD library.
